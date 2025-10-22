@@ -52,7 +52,7 @@ Before running, update the following global variables in the script:
 | Variable | Description |
 | :--- | :--- |
 | `SERVICE_ACCOUNT_FILE` | **Crucial:** Must match the name of the JSON file you downloaded from Google Cloud. |
-| `SPREADSHEET_ID` | Replace `'1yoRDXduvNPiIKEynRXCBkxnU5huywfpipQiM4th5tyc'` with the ID from your spreadsheet's URL. |
+| `SPREADSHEET_ID` | Replace `'your google sheet id'` with the ID from your spreadsheet's URL. |
 
 ### Font Dependency
 
